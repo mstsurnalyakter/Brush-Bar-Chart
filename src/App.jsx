@@ -1,6 +1,6 @@
 import React from 'react'
 import BrushBarChart from './Components/AreaChart'
-// import './App.css'
+import './App.css'
 
 function App() {
  
